@@ -1,3 +1,2 @@
-# info_Sec
-Information Security taught by Sir Syed Zubair. 
-Consists of multiple assignments and stuffs.
+# Information_Security
+This repository contains notes, assignments,and resources from my university Information Security course. Topics covered include cryptography, network security, authentication protocols,firewalls, intrusion detection/prevention systems, and security best practices. It also includes assigment exercises.
